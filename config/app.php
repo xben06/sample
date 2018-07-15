@@ -227,5 +227,9 @@ return [
         'View' => Illuminate\Support\Facades\View::class,
 
     ],
+    /**
+     * 中文验证
+     */
+    'locale' => 'zh-CN',
 
 ];
